@@ -46,7 +46,6 @@ This project demonstrates proficiency in several key areas:
   - Reads graph information from an input file, allowing flexibility in graph representation.
 
 - **Documentation:**
-  - Includes a README file providing an overview of the program, its features, and code organization.
   - The code files (`graph.h` and `graph.cc`) include comments for clarity and understanding.
 
 These skills collectively showcase the ability to design, implement, and document a C++ program that effectively represents and traverses a simple graph.
